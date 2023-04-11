@@ -1,2 +1,3 @@
 # AGI-assistant.org
-Open Source project so AGI experiments
+
+Open Source project for open source AGI experiments
